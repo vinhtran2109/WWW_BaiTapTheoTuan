@@ -7,6 +7,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
+import model.Student;
 
 @WebServlet("/registerStudent")
 public class StudentServlet extends HttpServlet {

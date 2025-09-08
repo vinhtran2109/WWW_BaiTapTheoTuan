@@ -1,5 +1,5 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ page import="Student" %>
+<%@ page import="model.Student" %>
 <html>
 <head>
     <title>Student Registration Result</title>
